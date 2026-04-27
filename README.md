@@ -52,6 +52,4 @@ You will also need a free [Gemini API Key from Google AI Studio](https://aistudi
 This application is completely serverless. It operates under a "Bring Your Own Key" (BYOK) model. 
 When you enter your Gemini API key, it is saved locally in your browser. All API requests are made directly from your client machine to Google's `generativelanguage.googleapis.com` endpoint.
 
-## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
